@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/enzon31" target="blank"><img src="https://img.shields.io/twitter/follow/enzon31?logo=twitter&style=for-the-badge" alt="enzon31" /></a> </p>
 
-- 🔭 I’m currently working on **Evoblade**
+- 🔭 I’m currently working on **NC-DOS**
 
-- 🌱 I’m currently learning **python, java**
+- 🌱 I’m currently learning **python, java, C#**
 
 - 👯 I’m looking to collaborate on **nothing**
 
-- 🤝 I’m looking for help with **java**
+- 🤝 I’m looking for help with **C#**
 
 - 👨‍💻 All of my projects are available at [github.com/enzon3](github.com/enzon3)
 
