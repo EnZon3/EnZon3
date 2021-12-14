@@ -24,7 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/enzon3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="enzon3" height="30" width="40" /></a>
-<a href="https://twitter.com/enzon31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enzon31" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15464543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15464543" height="30" width="40" /></a>
 <a href="https://codesandbox.com/enzon3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="enzon3" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucuxlligkpxmiivdnjnmn1ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucuxlligkpxmiivdnjnmn1ng" height="30" width="40" /></a>
