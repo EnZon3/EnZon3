@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzon3" alt="enzon3" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/enzon31" target="blank"><img src="https://img.shields.io/twitter/follow/enzon31?logo=twitter&style=for-the-badge" alt="enzon31" /></a> </p>
-
 - 🔭 I’m currently working on **NC-DOS**
 
 - 🌱 I’m currently learning **python, java, C#**
