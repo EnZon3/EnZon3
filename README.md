@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/enzon3](github.com/enzon3)
 
-- 💬 Ask me about **scratch i guess**
+- 💬 Ask me about **nothing*
 
 - 📫 How to reach me **EnZon3@protonmail.com**
 
