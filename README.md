@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **nothing**
 
-- 🤝 I’m looking for help with **C#**
+- 🤝 I’m looking for help with **C#, NodeJS**
 
 - 👨‍💻 All of my projects are available at [github.com/enzon3](github.com/enzon3)
 
