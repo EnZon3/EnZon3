@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzon3" alt="enzon3" /></a> </p>
 
-- 🔭 I’m currently working on **txtdb**
+- 🔭 I’m currently working on **The World's Sentiment**
 
 - 🌱 I’m currently learning **python, java, C#**
 
